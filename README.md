@@ -39,7 +39,7 @@ git clone https://github.com/AsadchiyViacheslav/MTS_Ecology.git
 Перейти в репозиторий
 
 ```bash
-cd MTS-Ecology
+cd MTS_Ecology
 ```
 
 Собрать докер-образ
