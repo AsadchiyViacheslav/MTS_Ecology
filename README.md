@@ -33,7 +33,7 @@
 Для начала клонировать репозиторий 
 
 ```bash
-git clone https://github.com/AsadchiyViacheslav/MTS_Ecology
+git clone https://github.com/AsadchiyViacheslav/MTS_Ecology.git
 ```
 
 Собрать докер-образ
