@@ -33,13 +33,9 @@
 Для начала клонировать репозиторий 
 
 ```bash
-git clone git@git.truetecharena.ru:sistema-xak-tomsk-18/truetecharena1747715625-team-12921/rabochij-prototip-kod-i-dokumentaciya-198.git
+git clone https://github.com/AsadchiyViacheslav/MTS_Ecology
 ```
-Перейти в директорию
-```bash
-cd rabochij-prototip-kod-i-dokumentaciya-198
 
-```
 Собрать докер-образ
 
 ```bash
